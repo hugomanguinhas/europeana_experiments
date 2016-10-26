@@ -1,5 +1,9 @@
 # Assessment of IRIs in Europeana data
 
+This github project contains the source code that was developed to collect the necessary information and process it for this investigation. 
+
+Contact: Hugo Manguinhas (hugo.manguinhas@europeana.eu)
+
 ## 1. Introduction
 
 The recent effort to migrate Europeana data to the new Virtuoso triple store has surfaced a problem of invalid [IRIs](https://www.ietf.org/rfc/rfc3987.txt) (the extension to [URIs](https://tools.ietf.org/html/rfc3986) to support characters beyond the ASCII character set) which is presently blocking many metadata records from being published in the new Europeana triple store (see our recent [blogpost](http://labs.europeana.eu/blog/europeana-sparql-endpoint)). In fact, this issue had already been identified by Ontotext upon the first export to the previous triple store, however with a lesser degree.
@@ -34,10 +38,6 @@ Besides creating issues to RDF engines and processors, one other side effect of 
 ```
 
 *The purpose of this work was therefore to conduct an investigation over the full Europeana dataset in order to assess the extent of the issues related to invalid IRI and recognize the different patterns that originate them in the hope that they can be reported back to the data provider but also be corrected or minimized in the data so that software agents do not have to struggle when consuming Europeana data.*
-
-This github project contains the source code that was developed to collect the necessary information and process it for this investigation. 
-
-Contact: Hugo Manguinhas (hugo.manguinhas@europeana.eu)
 
 ## 2. Methodology
 
