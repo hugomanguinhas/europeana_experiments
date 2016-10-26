@@ -68,7 +68,7 @@ The table below makes a comparison between the results of using Java URI and IRI
 
 | Violation | Meaning | Specs | Java URI valid? | IRIFactory valid? |
 | --- | --- | --- | --- | --- |
-| COMPATIBILITY_CHARACTER | Characters in the [compatibility area](https://en.wikipedia.org/wiki/Unicode_compatibility_characters) (i.e. with character code greater than \uF900 and less than \uFFFE) are not allowed in XML names. | Unicode, IRI | yes | no |
+| COMPATIBILITY_CHARACTER | Characters in the [compatibility area](https://en.wikipedia.org/wiki/Unicode_compatibility_characters) (i.e. character codes between \uF900 and \uFFFE) are not allowed in XML names. | Unicode, IRI | yes | no |
 |  CONTROL_CHARACTER | Flagged when IRIs contain control characters (#00-07, #7F) as part of the path. | RDF, URI, IRI | no | no |
 | DEFAULT_PORT_SHOULD_BE_OMITTED | Flagged when the default port number (e.g. 80 for HTTP) is exposed as part of the IRI | URI | yes | no |
 | DOUBLE_WHITESPACE | Flagged when the path component of an IRI contains more than 1 whitespace in sequence. | URI, IRI, Schema | no | no |
