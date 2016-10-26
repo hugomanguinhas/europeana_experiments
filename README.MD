@@ -7,7 +7,7 @@ involved with and/or worked on.
 
 ##List of all Experiments
 * [The 20th Century Black Hole](blackhole/)
-* [Linking Europeana Collection to Wikidata](experiments/WikidataCHO.md)
+* [Linking Europeana Collection to Wikidata](chowkd/)
 * [IRI Investigation](exp-iri/)
 
 ## License

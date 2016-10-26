@@ -1,0 +1,1 @@
+http://www.europeana.eu/api/v2/search.json?wskey=api2demo&query=proxy_owl_sameAs:*wikidata*&profile=facets&facet=europeana_id&f.europeana_id.facet.limit=20000&rows=0
