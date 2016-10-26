@@ -98,11 +98,11 @@ The table below makes a comparison between the results of using Java URI and IRI
 | Violation | Count | Notes | Reporting | Correcting |
 | --- | --- | --- | --- | --- |
 | [COMPATIBILITY_CHARACTER](src/test/resources/etc/data/entities/iris_entities_report.COMPATIBILITY_CHARACTER.csv) | 1180 | All occurrences are for iconclass IRIs. Requires further investigation on Iconclass. | Pending further investigation |
-| NOT_NFKC | 18 | Same cases as for COMPATIBILITY_CHARACTER | flag as warning | Escape violating characters |
-| SCHEME_PATTERN_MATCH_FAILED | 9352 | All occurrences are for NBN identifiers. Requires further investigation on NBN identifiers. | Pending further investigation |
-| UNREGISTERED_IANA_SCHEME | 931865 | The two patterns for GEO and OAI were incorrectly identified (would need to be added to the IRI validator). All remaining occurrences are for IID identifiers which would need to be added as well. | flag as error (when incorrect) | |
-| UNWISE_CHARACTER | 131 | Most occurrences are for Iconclass where characters were not escaped. The remainder are for DNB identifiers that have some dangling characters at the end which may be the result of a bad mapping or typo. | flag as error | Escape violating characters. The obviously wrong IRIs can also be detect and correct. |
-| WHITESPACE | 75002 | Most occurrences are for Iconclass. The remainder are in fact incorrect URIs which appear to be the result of some wrong mapping or typo. | flag as warning (also include patterns to detect incorrect URIs so that they can be flagged as errors) | Escape violating characters, and consider patterns to detect and correct wrong IRIs. |
+| [NOT_NFKC](src/test/resources/etc/data/entities/iris_entities_report.NOT_NFKC.csv) | 18 | Same cases as for COMPATIBILITY_CHARACTER | flag as warning | Escape violating characters |
+| [SCHEME_PATTERN_MATCH_FAILED](src/test/resources/etc/data/entities/iris_entities_report.SCHEME_PATTERN_MATCH_FAILED.csv) | 9352 | All occurrences are for NBN identifiers. Requires further investigation on NBN identifiers. | Pending further investigation |
+| [UNREGISTERED_IANA_SCHEME](src/test/resources/etc/data/entities/iris_entities_report.UNREGISTERED_IANA_SCHEME.csv) | 931865 | The two patterns for GEO and OAI were incorrectly identified (would need to be added to the IRI validator). All remaining occurrences are for IID identifiers which would need to be added as well. | flag as error (when incorrect) | |
+| [UNWISE_CHARACTER](src/test/resources/etc/data/entities/iris_entities_report.UNWISE_CHARACTER.csv) | 131 | Most occurrences are for Iconclass where characters were not escaped. The remainder are for DNB identifiers that have some dangling characters at the end which may be the result of a bad mapping or typo. | flag as error | Escape violating characters. The obviously wrong IRIs can also be detect and correct. |
+| [WHITESPACE](src/test/resources/etc/data/entities/iris_entities_report.WHITESPACE.csv) | 75002 | Most occurrences are for Iconclass. The remainder are in fact incorrect URIs which appear to be the result of some wrong mapping or typo. | flag as warning (also include patterns to detect incorrect URIs so that they can be flagged as errors) | Escape violating characters, and consider patterns to detect and correct wrong IRIs. |
 
 ## 4. Usage
 
