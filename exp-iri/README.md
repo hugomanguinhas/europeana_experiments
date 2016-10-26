@@ -85,7 +85,7 @@ The table below makes a comparison between the results of using Java URI and IRI
 | PRIVATE_USE_CHARACTER | Flagged when characters from the [private area of Unicode](https://en.wikipedia.org/wiki/Private_Use_Areas) are used. | Unicode, IRI | yes | no | 
 | REQUIRED_COMPONENT_MISSING | Flagged when some component of the URL syntax is missing, e.g. host, protocol | URI | yes / no (depends on the component) | no |
 | SCHEME_PATTERN_MATCH_FAILED | Flagged when the pattern of the IRI does not match the one specified by the scheme | URI + IANA | yes | no | 
-| UNREGISTERED_IANA_SCHEME | Flagged when the protocol scheme is not recognized by IANA (see http://www.iana.org/assignments/uri-schemes/uri-schemes.xhtml) | URI + IANA | yes | no |
+| UNREGISTERED_IANA_SCHEME | Flagged when the protocol scheme is not recognized by IANA. See [assigned URI Schemes](http://www.iana.org/assignments/uri-schemes/uri-schemes.xhtml). | URI + IANA | yes | no |
 | UNWISE_CHARACTER | Flagged when URIs use unwise characters (e.g. |,<,>,",`) as defined in rfc3987. The whitespace is reported as a separate issue. | URI | no | no |
 | WHITESPACE | Flagged when URIs have whitespaces in the component part of the scheme | URI | no | no |
 
