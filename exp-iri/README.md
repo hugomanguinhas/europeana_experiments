@@ -96,6 +96,7 @@ The table below makes a comparison between the results of using Java URI and IRI
 ### 3.3. Evaluation of IRIs in Contextual Entities
 
 | Violation | Count | Notes | Reporting | Correcting |
+| --- | --- | --- | --- | --- |
 | COMPATIBILITY_CHARACTER | 1180 | All occurrences are for iconclass IRIs. Requires further investigation on Iconclass. | Pending further investigation |
 | NOT_NFKC | 18 | Same cases as for COMPATIBILITY_CHARACTER | flag as warning | Escape violating characters |
 | SCHEME_PATTERN_MATCH_FAILED | 9352 | All occurrences are for NBN identifiers. Requires further investigation on NBN identifiers. | Pending further investigation |
