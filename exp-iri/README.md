@@ -91,9 +91,13 @@ The table below makes a comparison between the results of using Java URI and IRI
 
 ### 3.2. Evaluation of IRIs in Media Resources
 
+The table below shows the results and analysis for references to media resources. It is also available as a [Google spreadsheet](https://docs.google.com/spreadsheets/d/1oUGWFQym8aWCBYYu6-h_rtMy6rxLP3peuHG4LeVNwto) where comments can be made to the assessment.
+
 
 
 ### 3.3. Evaluation of IRIs in Contextual Entities
+
+The table below shows the results and analysis for references to contextual entities. It is also available as a [Google spreadsheet](https://docs.google.com/spreadsheets/d/1nd4c1K1vh3BgO3D8Fy5Z_5K9Ts08KXXmtBMEit2ynis) where comments can be made to the assessment.
 
 | Violation | Count | Notes | Reporting | Correcting |
 | --- | --- | --- | --- | --- |
