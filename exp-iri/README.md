@@ -45,7 +45,7 @@ This investigation was run directly on the R&D MongoDB (a replica from the produ
 
 Early in this investigation, it was also recognized that the reasons and ways to tackle invalid IRIs could be different depending if the references were referring to a media resource (edm:WebResource) or a contextual entities (ie. edm:Agent, edm:Place, skos:Concept, edm:TimeSpan) which resulted into two separate results as shown in Section 3. This also meant that only IRIs that identify resources for which there is a resource description stored in the database were subject of investigation.
 
-To analyse in detail the different types of IRI issues, Jena IRIFactory implementation (org.apache.jena.iri.IRIFactory) was chosen as it is currently the most complete (supports the validation against different specifications) and detailed IRI validator for Java. The default IRI validation was chose for this assessment using the weakest validation level (ignoring warnings), which validates against the following standard specifications:
+To analyse in detail the different types of IRI issues, Jena IRIFactory implementation ([org.apache.jena.iri.IRIFactory](https://svn.apache.org/repos/asf/jena/Import/Jena-CVS/Scratch/trunk/iri/doc/javadoc/com/hp/hpl/jena/iri/IRIFactory.html)) was chosen as it is currently the most complete (supports the validation against different specifications) and detailed IRI validator for Java. The default IRI validation was chose for this assessment using the weakest validation level (ignoring warnings), which validates against the following standard specifications:
 
 * [Unicode](http://www.unicode.org/)
 * [RFC 3986: Uniform Resource Identifier (URI): Generic Syntax](http://www.apps.ietf.org/rfc/rfc3986.html)
@@ -55,7 +55,7 @@ To analyse in detail the different types of IRI issues, Jena IRIFactory implemen
 * [XML Linking Language (XLink) Version 1.0 (section Locator Attribute (href))](http://www.w3.org/TR/2001/REC-xlink-20010627/#link-locators)
 * [XML Schema Part 2: Datatypes Second Edition (section anyURI)](http://www.w3.org/TR/2004/REC-xmlschema-2-20041028/#anyURI)
 
-Besides the IRIFactory, also the Java URI (java.net.URI) built-in validation was used to compare the two implementations (see Section 3.1) and also determine the situations where a IRI would be exposed or not as a resource reference in the Europeana API.
+Besides the IRIFactory, also the Java URI ([java.net.URI](https://docs.oracle.com/javase/8/docs/api/java/net/URI.html)) built-in validation was used to compare the two implementations (see Section 3.1) and also determine the situations where a IRI would be exposed or not as a resource reference in the Europeana API.
 
 ## 3. Results
 
