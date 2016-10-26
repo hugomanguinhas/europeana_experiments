@@ -1,0 +1,21 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#" > 
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#guitare">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3237"/>
+    <owl:differentFrom rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/5137"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#flûte">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3955"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#grelot">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/2873"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#ban">
+    <owl:differentFrom rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/2498"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#violon">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3573"/>
+  </rdf:Description>
+</rdf:RDF>

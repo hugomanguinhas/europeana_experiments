@@ -1,0 +1,46 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://www.w3.org/2004/02/skos/core#" > 
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#spoons">
+    <j.0:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/6787"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#ukulele+">
+    <j.0:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3250"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#accordion+">
+    <j.0:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3732"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#accordion">
+    <j.0:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3732"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#mandolin">
+    <j.0:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3510"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#dulcimer">
+    <j.0:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3644"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#banjo">
+    <j.0:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3226"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#hunting+horn">
+    <j.0:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/4138"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#tambourine">
+    <j.0:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/2746"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#violin">
+    <j.0:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3573"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#penny+whistle">
+    <j.0:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/4026"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#melodeon">
+    <j.0:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3743"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#concertina">
+    <j.0:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3735"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#bass+guitar">
+    <j.0:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3230"/>
+  </rdf:Description>
+</rdf:RDF>

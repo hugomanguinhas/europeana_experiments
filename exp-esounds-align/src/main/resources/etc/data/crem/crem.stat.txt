@@ -1,0 +1,90 @@
+
+********************************************************************************
+* RESOURCES                                                                    *
+********************************************************************************
+
+Total n. of resources: 36
+
+
+********************************************************************************
+* PROPERTIES                                                                   *
+********************************************************************************
+* This section lists the properties found for the selected resources.          *
+*                                                                              *
+* Meaning of the columns:                                                      *
+* #1: Number of resources that have at least one instance of this property     *
+* #2: Percentage against the total number of resources                         *
+* #3: The URI of the property                                                  *
+********************************************************************************
+
+Total n. of properties: 16
+
+36 (100%): http://purl.org/dc/elements/1.1/contributor
+36 (100%): http://purl.org/dc/elements/1.1/identifier
+36 (100%): http://purl.org/dc/elements/1.1/rights
+36 (100%): http://purl.org/dc/elements/1.1/subject
+36 (100%): http://purl.org/dc/elements/1.1/title
+36 (100%): http://purl.org/dc/terms/created
+36 (100%): http://purl.org/dc/terms/provenance
+36 (100%): http://purl.org/dc/terms/spatial
+36 (100%): http://purl.org/dc/terms/temporal
+36 (100%): http://purl.org/ontology/mo/track_number
+36 (100%): http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#duration
+36 (100%): http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#hasGenre
+36 (100%): http://www.europeana.eu/schemas/edm/isGatheredInto
+36 (100%): http://www.europeana.eu/schemas/edm/type
+36 (100%): http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+ 2 (006%): http://purl.org/dc/terms/alternative
+
+http://purl.org/dc/elements/1.1/identifier36 (100%,1<#<1)
+http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#hasGenre36 (100%,1<#<1)
+http://purl.org/dc/elements/1.1/subject167 (464%,2<#<11)
+http://purl.org/dc/elements/1.1/rights36 (100%,1<#<1)
+http://purl.org/dc/elements/1.1/contributor45 (125%,1<#<2)
+http://purl.org/dc/terms/created72 (200%,2<#<2)
+http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#duration36 (100%,1<#<1)
+http://www.europeana.eu/schemas/edm/type36 (100%,1<#<1)
+http://purl.org/dc/terms/temporal36 (100%,1<#<1)
+http://purl.org/dc/terms/provenance36 (100%,1<#<1)
+http://purl.org/ontology/mo/track_number36 (100%,1<#<1)
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type36 (100%,1<#<1)
+http://purl.org/dc/terms/alternative 2 (006%,0<#<1)
+http://purl.org/dc/elements/1.1/title36 (100%,1<#<1)
+http://www.europeana.eu/schemas/edm/isGatheredInto36 (100%,1<#<1)
+http://purl.org/dc/terms/spatial50 (139%,1<#<2)
+
+********************************************************************************
+* LANGUAGE DISTRIBUTION                                                        *
+********************************************************************************
+* This section lists the languages found for the selected resources.           *
+*                                                                              *
+* Meaning of the columns:                                                      *
+* #1: Code of the Language (i.e. found on literal ranges)                      *
+* #2: Number of resources that have at least one literal range of this lang    *
+* #3: Percentage against the total number of resources                         *
+********************************************************************************
+
+Total n. of languages: 2
+
+	36 (100%): ? 
+	36 (100%): fr
+
+<http://purl.org/dc/elements/1.1/subject>:
+	112 (067%): fr
+	 55 (033%): ? 
+
+<http://purl.org/dc/elements/1.1/rights>:
+	36 (100%): fr
+
+<http://purl.org/dc/elements/1.1/contributor>:
+	45 (100%): fr
+
+<http://purl.org/dc/terms/provenance>:
+	36 (100%): fr
+
+<http://purl.org/dc/elements/1.1/title>:
+	36 (100%): fr
+
+<http://purl.org/dc/terms/spatial>:
+	50 (100%): fr
+

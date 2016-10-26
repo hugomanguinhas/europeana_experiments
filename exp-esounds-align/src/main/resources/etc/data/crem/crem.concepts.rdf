@@ -1,0 +1,640 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xml:base="http://www.europeanasounds.eu/data/concepts#">
+  <skos:Concept rdf:about="#Trompe+à+embouchure+terminale">
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16068/"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16069/"/>
+    <skos:inScheme>
+      <skos:ConceptScheme rdf:ID="ConceptScheme">
+        <skos:note>A virtual scheme containing concepts that were extracted from a set of source records in order to be matched against a target vocabulary.</skos:note>
+      </skos:ConceptScheme>
+    </skos:inScheme>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16067/"/>
+    <skos:prefLabel xml:lang="fr">Trompe à embouchure terminale</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:ID="Kartal">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16085/"/>
+    <skos:prefLabel>Kartal</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="#Tambour+sur+cadre+à+2+membranes">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16066/"/>
+    <skos:prefLabel xml:lang="fr">Tambour sur cadre à 2 membranes</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:ID="Divertissement">
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16054/"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16055/"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16056/"/>
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16086/"/>
+    <skos:prefLabel xml:lang="fr">Divertissement</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="#Bambou+pilonnant">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16086/"/>
+    <skos:prefLabel xml:lang="fr">Bambou pilonnant</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="#ORCHESTRE+DE+TULE">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16079/"/>
+    <skos:prefLabel>ORCHESTRE DE TULE</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:ID="Culte">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16061/"/>
+    <skos:prefLabel xml:lang="fr">Culte</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:ID="BALO">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16083/"/>
+    <skos:prefLabel>BALO</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="#DOSO+KPEVI">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16084/"/>
+    <skos:prefLabel>DOSO KPEVI</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:ID="Dung-chen">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16068/"/>
+    <skos:prefLabel>Dung-chen</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:ID="Sanza">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16081/"/>
+    <skos:prefLabel>Sanza</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:ID="Bans">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16069/"/>
+    <skos:prefLabel>Bans</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="#Tambour+frappé">
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16062/"/>
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16065/"/>
+    <skos:prefLabel xml:lang="fr">Tambour frappé</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:ID="Guimbarde">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16080/"/>
+    <skos:prefLabel xml:lang="fr">Guimbarde</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:ID="Hautbois">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16076/"/>
+    <skos:prefLabel xml:lang="fr">Hautbois</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="#Solo+instrumental">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16056/"/>
+    <skos:prefLabel xml:lang="fr">Solo instrumental</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="#DOSO+DAHO">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16084/"/>
+    <skos:prefLabel>DOSO DAHO</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:ID="Timbale">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16065/"/>
+    <skos:prefLabel xml:lang="fr">Timbale</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:ID="Darabukka">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16064/"/>
+    <skos:prefLabel>Darabukka</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:ID="HAEN">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16074/"/>
+    <skos:prefLabel>HAEN</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:ID="Danse">
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16082/"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16075/"/>
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16066/"/>
+    <skos:prefLabel xml:lang="fr">Danse</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:ID="KENDANG">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16089/"/>
+    <skos:prefLabel>KENDANG</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:ID="KAJAR">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16089/"/>
+    <skos:prefLabel>KAJAR</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="#Voix+%3A+Duo+de+femmes">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16083/"/>
+    <skos:prefLabel xml:lang="fr">Voix : Duo de femmes</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="#Trompe+à+embouchure+latérale">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16067/"/>
+    <skos:prefLabel xml:lang="fr">Trompe à embouchure latérale</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="#Tambour+sur+caisse+en+forme+de+gobelet%2Fcalice+à+1+membrane">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16064/"/>
+    <skos:prefLabel xml:lang="fr">Tambour sur caisse en forme de gobelet/calice à 1 membrane</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:ID="Animisme">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16084/"/>
+    <skos:prefLabel xml:lang="fr">Animisme</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="#Clarinette+triple">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16078/"/>
+    <skos:prefLabel xml:lang="fr">Clarinette triple</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:ID="Mandingue">
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16060/"/>
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16083/"/>
+    <skos:prefLabel>Mandingue</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:ID="MANGHANIYAR">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16057/"/>
+    <skos:prefLabel>MANGHANIYAR</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:ID="GENDER">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16089/"/>
+    <skos:prefLabel>GENDER</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:ID="Ethnomusicologie">
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16065/"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16062/"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16082/"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16077/"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16060/"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16074/"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16064/"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16089/"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16056/"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16061/"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16080/"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16057/"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16085/"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16066/"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16067/"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16073/"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16054/"/>
+    <skos:prefLabel xml:lang="fr">Ethnomusicologie</skos:prefLabel>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16070/"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16087/"/>
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16069/"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16078/"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16084/"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16059/"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16053/"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16081/"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16072/"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16076/"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16086/"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16068/"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16058/"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16055/"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16063/"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16083/"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16071/"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16075/"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16079/"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="#Vièle+à+3+cordes">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16057/"/>
+    <skos:prefLabel xml:lang="fr">Vièle à 3 cordes</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:ID="Enseignement">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16065/"/>
+    <skos:prefLabel xml:lang="fr">Enseignement</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="#Cloche+double">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16059/"/>
+    <skos:prefLabel xml:lang="fr">Cloche double</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="#Flûte+à+embouchure+terminale">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16070/"/>
+    <skos:prefLabel xml:lang="fr">Flûte à embouchure terminale</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:ID="ONGO">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16067/"/>
+    <skos:prefLabel>ONGO</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:ID="Cloche">
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16083/"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16084/"/>
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16061/"/>
+    <skos:prefLabel xml:lang="fr">Cloche</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="#Harpe+à+chevalet">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16060/"/>
+    <skos:prefLabel xml:lang="fr">Harpe à chevalet</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:ID="ORGANETTO">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16075/"/>
+    <skos:prefLabel>ORGANETTO</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:ID="Murali">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16077/"/>
+    <skos:prefLabel>Murali</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="#Ilattâlam">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16066/"/>
+    <skos:prefLabel>Ilattâlam</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:ID="Vietnamien">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16054/"/>
+    <skos:prefLabel>Vietnamien</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:ID="Hochet">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16084/"/>
+    <skos:prefLabel xml:lang="fr">Hochet</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="#Luth+à+11+cordes">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16056/"/>
+    <skos:prefLabel xml:lang="fr">Luth à 11 cordes</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="#Accordéon">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16075/"/>
+    <skos:prefLabel xml:lang="fr">Accordéon</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="#Clarinette+double">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16077/"/>
+    <skos:prefLabel xml:lang="fr">Clarinette double</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="#Flûte+à+embouchure+terminale+à+bloc+ou+à+bec">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16072/"/>
+    <skos:prefLabel xml:lang="fr">Flûte à embouchure terminale à bloc ou à bec</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:ID="KEMPUR">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16089/"/>
+    <skos:prefLabel>KEMPUR</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="#Musique+de+berger">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16070/"/>
+    <skos:prefLabel xml:lang="fr">Musique de berger</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:ID="Tar">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16056/"/>
+    <skos:prefLabel>Tar</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:ID="LANGA-C">
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16080/"/>
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16077/"/>
+    <skos:prefLabel>LANGA-C</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="#Tambour+sur+cadre+à+1+membrane">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16063/"/>
+    <skos:prefLabel xml:lang="fr">Tambour sur cadre à 1 membrane</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:ID="Nar">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16070/"/>
+    <skos:prefLabel>Nar</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="#Luth+à+2+cordes">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16055/"/>
+    <skos:prefLabel xml:lang="fr">Luth à 2 cordes</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:ID="Gong">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16066/"/>
+    <skos:prefLabel xml:lang="fr">Gong</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:ID="Lamellophone">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16081/"/>
+    <skos:prefLabel xml:lang="fr">Lamellophone</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:ID="Initiation">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16067/"/>
+    <skos:prefLabel xml:lang="fr">Initiation</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="#%27Au+paina">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16073/"/>
+    <skos:prefLabel>'Au paina</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:ID="Incantation">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16059/"/>
+    <skos:prefLabel xml:lang="fr">Incantation</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="#Dan+tranh">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16054/"/>
+    <skos:prefLabel>Dan tranh</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:ID="Satara">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16071/"/>
+    <skos:prefLabel>Satara</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:ID="Orchestre">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16089/"/>
+    <skos:prefLabel xml:lang="fr">Orchestre</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="#Shuddha+Maddalam">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16066/"/>
+    <skos:prefLabel>Shuddha Maddalam</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:ID="Ngombi">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16059/"/>
+    <skos:prefLabel>Ngombi</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="#Arc+musical">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16058/"/>
+    <skos:prefLabel xml:lang="fr">Arc musical</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:ID="Soron">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16060/"/>
+    <skos:prefLabel>Soron</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="#Tambour+de+bois+à+fente">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16082/"/>
+    <skos:prefLabel xml:lang="fr">Tambour de bois à fente</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:ID="Ngbaka">
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16058/"/>
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16059/"/>
+    <skos:prefLabel>Ngbaka</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:ID="Louange">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16060/"/>
+    <skos:prefLabel xml:lang="fr">Louange</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:ID="THAI">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16074/"/>
+    <skos:prefLabel>THAI</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:ID="Wayapi">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16079/"/>
+    <skos:prefLabel>Wayapi</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="#Tambour+à+tension+variable">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16062/"/>
+    <skos:prefLabel xml:lang="fr">Tambour à tension variable</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="#MARAR%2C+POTHUVAL">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16066/"/>
+    <skos:prefLabel>MARAR, POTHUVAL</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="#Jeu+de+bambous+oscillants">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16087/"/>
+    <skos:prefLabel xml:lang="fr">Jeu de bambous oscillants</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:ID="Claquettes">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16085/"/>
+    <skos:prefLabel xml:lang="fr">Claquettes</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="#Cithare+sur+table">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16054/"/>
+    <skos:prefLabel xml:lang="fr">Cithare sur table</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:ID="Tule">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16079/"/>
+    <skos:prefLabel>Tule</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="#Cithare+sur+caisse">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16053/"/>
+    <skos:prefLabel xml:lang="fr">Cithare sur caisse</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:ID="Bariba">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16062/"/>
+    <skos:prefLabel>Bariba</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:ID="Santur">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16053/"/>
+    <skos:prefLabel>Santur</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:ID="OENG-OENG">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16089/"/>
+    <skos:prefLabel>OENG-OENG</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="#Voix+%3A+Duo+d%27hommes">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16059/"/>
+    <skos:prefLabel xml:lang="fr">Voix : Duo d'hommes</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:ID="CHENGALAM">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16066/"/>
+    <skos:prefLabel>CHENGALAM</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="#Tambour+sur+caisse+à+2+membranes">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16066/"/>
+    <skos:prefLabel xml:lang="fr">Tambour sur caisse à 2 membranes</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:ID="FIORASSIU">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16078/"/>
+    <skos:prefLabel>FIORASSIU</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:ID="Rituel">
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16068/"/>
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16058/"/>
+    <skos:prefLabel xml:lang="fr">Rituel</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:ID="CHENDA">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16066/"/>
+    <skos:prefLabel>CHENDA</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:ID="Exorcisme">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16089/"/>
+    <skos:prefLabel xml:lang="fr">Exorcisme</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:ID="Religion">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16084/"/>
+    <skos:prefLabel xml:lang="fr">Religion</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:ID="GONG">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16089/"/>
+    <skos:prefLabel>GONG</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:ID="Mbela">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16058/"/>
+    <skos:prefLabel>Mbela</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:ID="Goun">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16061/"/>
+    <skos:prefLabel>Goun</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:ID="Improvisation">
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16085/"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16080/"/>
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16064/"/>
+    <skos:prefLabel xml:lang="fr">Improvisation</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="#Tambour+à+2+membranes">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16089/"/>
+    <skos:prefLabel xml:lang="fr">Tambour à 2 membranes</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:ID="Banda">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16067/"/>
+    <skos:prefLabel>Banda</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:ID="LINGA">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16082/"/>
+    <skos:prefLabel>LINGA</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="#Flûte+de+Pan">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16073/"/>
+    <skos:prefLabel xml:lang="fr">Flûte de Pan</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="#Tambour+sur+caisse+à+1+membrane">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16061/"/>
+    <skos:prefLabel xml:lang="fr">Tambour sur caisse à 1 membrane</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:ID="Bucolique">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16073/"/>
+    <skos:prefLabel xml:lang="fr">Bucolique</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:ID="Kamaica">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16057/"/>
+    <skos:prefLabel>Kamaica</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="#Tabla+%28daya+et+baya%29">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16065/"/>
+    <skos:prefLabel>Tabla (daya et baya)</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:ID="Cymbales">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16066/"/>
+    <skos:prefLabel xml:lang="fr">Cymbales</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="#DAN+HUN">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16061/"/>
+    <skos:prefLabel>DAN HUN</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="#Voix+chantée+%3A+choeur+d%27hommes">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16084/"/>
+    <skos:prefLabel xml:lang="fr">Voix chantée : choeur d'hommes</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="#Cérémonie">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16072/"/>
+    <skos:prefLabel xml:lang="fr">Cérémonie</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="#Poterie+frappée">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16071/"/>
+    <skos:prefLabel xml:lang="fr">Poterie frappée</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="#Orgue+à+bouche">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16074/"/>
+    <skos:prefLabel xml:lang="fr">Orgue à bouche</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:ID="Morchang">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16080/"/>
+    <skos:prefLabel>Morchang</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:ID="Clarinette">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16079/"/>
+    <skos:prefLabel xml:lang="fr">Clarinette</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="#Harpe+arquée">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16059/"/>
+    <skos:prefLabel xml:lang="fr">Harpe arquée</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="#Are+Are">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16073/"/>
+    <skos:prefLabel>Are Are</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:ID="Rgya-gling">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16076/"/>
+    <skos:prefLabel>Rgya-gling</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="#Flûte+double">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16071/"/>
+    <skos:prefLabel xml:lang="fr">Flûte double</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="#Drame+musical">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16089/"/>
+    <skos:prefLabel xml:lang="fr">Drame musical</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:ID="Chasse">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16058/"/>
+    <skos:prefLabel xml:lang="fr">Chasse</skos:prefLabel>
+  </skos:Concept>
+</rdf:RDF>

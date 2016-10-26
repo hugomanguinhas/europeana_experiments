@@ -1,0 +1,91 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://www.w3.org/2004/02/skos/core#" > 
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#ndongo">
+    <j.0:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3502"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#bells">
+    <j.0:broadMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/2371"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#ndere">
+    <j.0:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/4012"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#oboe">
+    <j.0:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/4232"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#organ">
+    <j.0:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/2266"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#rattles">
+    <j.0:broadMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3012"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#drum">
+    <j.0:broadMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/2585"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#ludaya">
+    <j.0:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3999"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#sereu">
+    <j.0:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/4561"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#drums">
+    <j.0:broadMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/2493"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#engalabi">
+    <j.0:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/2596"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#rattle">
+    <j.0:broadMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3036"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#guitar">
+    <j.0:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3237"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#Nyamulere">
+    <j.0:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/4019"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#double+bass">
+    <j.0:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3111"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#xylophone">
+    <j.0:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3099"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#recorder">
+    <j.0:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/4039"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#Uganda+drum">
+    <j.0:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/2790"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#flutes">
+    <j.0:broadMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3883"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#lyre">
+    <j.0:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3501"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#harpsichord">
+    <j.0:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/2251"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#ekinimba">
+    <j.0:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3938"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#adungu">
+    <j.0:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3522"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#bil">
+    <j.0:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/4550"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#omubanda">
+    <j.0:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/4021"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#fiddle">
+    <j.0:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3142"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#endingidi">
+    <j.0:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3132"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#ngoma">
+    <j.0:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/2682"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#ennanga">
+    <j.0:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3280"/>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,239 @@
+
+********************************************************************************
+* RESOURCES                                                                    *
+********************************************************************************
+
+Total n. of resources: 116
+
+
+********************************************************************************
+* PROPERTIES                                                                   *
+********************************************************************************
+* This section lists the properties found for the selected resources.          *
+*                                                                              *
+* Meaning of the columns:                                                      *
+* #1: Number of resources that have at least one instance of this property     *
+* #2: Percentage against the total number of resources                         *
+* #3: The URI of the property                                                  *
+********************************************************************************
+
+Total n. of properties: 4
+
+116 (100%): http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+116 (100%): http://www.w3.org/2004/02/skos/core#inScheme
+116 (100%): http://www.w3.org/2004/02/skos/core#note
+116 (100%): http://www.w3.org/2004/02/skos/core#prefLabel
+
+http://www.w3.org/2004/02/skos/core#inScheme116 (100%,1<#<1)
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type116 (100%,1<#<1)
+http://www.w3.org/2004/02/skos/core#note167 (144%,1<#<36)
+http://www.w3.org/2004/02/skos/core#prefLabel116 (100%,1<#<1)
+
+********************************************************************************
+* LANGUAGE DISTRIBUTION                                                        *
+********************************************************************************
+* This section lists the languages found for the selected resources.           *
+*                                                                              *
+* Meaning of the columns:                                                      *
+* #1: Code of the Language (i.e. found on literal ranges)                      *
+* #2: Number of resources that have at least one literal range of this lang    *
+* #3: Percentage against the total number of resources                         *
+********************************************************************************
+
+Total n. of languages: 2
+
+	 64 (055%): fr
+	 52 (045%): ? 
+
+<http://www.w3.org/2004/02/skos/core#prefLabel>:
+	 64 (055%): fr
+	 52 (045%): ? 
+
+
+********************************************************************************
+* PROPERTY VALUES STATISTICS                                                   *
+********************************************************************************
+* This section lists the values found for a specific property.                 *
+*                                                                              *
+* Meaning of the columns:                                                      *
+* #1: Number of properties with this literal                                   *
+* #2: Percentage against the total number of resources                         *
+* #3: The literal value and language if defined (see @)                        *
+********************************************************************************
+
+<http://www.w3.org/2004/02/skos/core#inScheme>:
+	116 (100%): http://www.europeanasounds.eu/data/concepts#ConceptScheme
+
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:
+	116 (100%): http://www.w3.org/2004/02/skos/core#Concept
+
+<http://www.w3.org/2004/02/skos/core#prefLabel>:
+	  1 (001%): 'Au paina
+	  1 (001%): Accordéon@fr
+	  1 (001%): Animisme@fr
+	  1 (001%): Arc musical@fr
+	  1 (001%): Are Are
+	  1 (001%): BALO
+	  1 (001%): Bambou pilonnant@fr
+	  1 (001%): Banda
+	  1 (001%): Bans
+	  1 (001%): Bariba
+	  1 (001%): Bucolique@fr
+	  1 (001%): CHENDA
+	  1 (001%): CHENGALAM
+	  1 (001%): Chasse@fr
+	  1 (001%): Cithare sur caisse@fr
+	  1 (001%): Cithare sur table@fr
+	  1 (001%): Claquettes@fr
+	  1 (001%): Clarinette double@fr
+	  1 (001%): Clarinette triple@fr
+	  1 (001%): Clarinette@fr
+	  1 (001%): Cloche double@fr
+	  1 (001%): Cloche@fr
+	  1 (001%): Culte@fr
+	  1 (001%): Cymbales@fr
+	  1 (001%): Cérémonie@fr
+	  1 (001%): DAN HUN
+	  1 (001%): DOSO DAHO
+	  1 (001%): DOSO KPEVI
+	  1 (001%): Dan tranh
+	  1 (001%): Danse@fr
+	  1 (001%): Darabukka
+	  1 (001%): Divertissement@fr
+	  1 (001%): Drame musical@fr
+	  1 (001%): Dung-chen
+	  1 (001%): Enseignement@fr
+	  1 (001%): Ethnomusicologie@fr
+	  1 (001%): Exorcisme@fr
+	  1 (001%): FIORASSIU
+	  1 (001%): Flûte de Pan@fr
+	  1 (001%): Flûte double@fr
+	  1 (001%): Flûte à embouchure terminale à bloc ou à bec@fr
+	  1 (001%): Flûte à embouchure terminale@fr
+	  1 (001%): GENDER
+	  1 (001%): GONG
+	  1 (001%): Gong@fr
+	  1 (001%): Goun
+	  1 (001%): Guimbarde@fr
+	  1 (001%): HAEN
+	  1 (001%): Harpe arquée@fr
+	  1 (001%): Harpe à chevalet@fr
+	  1 (001%): Hautbois@fr
+	  1 (001%): Hochet@fr
+	  1 (001%): Ilattâlam
+	  1 (001%): Improvisation@fr
+	  1 (001%): Incantation@fr
+	  1 (001%): Initiation@fr
+	  1 (001%): Jeu de bambous oscillants@fr
+	  1 (001%): KAJAR
+	  1 (001%): KEMPUR
+	  1 (001%): KENDANG
+	  1 (001%): Kamaica
+	  1 (001%): Kartal
+	  1 (001%): LANGA-C
+	  1 (001%): LINGA
+	  1 (001%): Lamellophone@fr
+	  1 (001%): Louange@fr
+	  1 (001%): Luth à 11 cordes@fr
+	  1 (001%): Luth à 2 cordes@fr
+	  1 (001%): MANGHANIYAR
+	  1 (001%): MARAR, POTHUVAL
+	  1 (001%): Mandingue
+	  1 (001%): Mbela
+	  1 (001%): Morchang
+	  1 (001%): Murali
+	  1 (001%): Musique de berger@fr
+	  1 (001%): Nar
+	  1 (001%): Ngbaka
+	  1 (001%): Ngombi
+	  1 (001%): OENG-OENG
+	  1 (001%): ONGO
+	  1 (001%): ORCHESTRE DE TULE
+	  1 (001%): ORGANETTO
+	  1 (001%): Orchestre@fr
+	  1 (001%): Orgue à bouche@fr
+	  1 (001%): Poterie frappée@fr
+	  1 (001%): Religion@fr
+	  1 (001%): Rgya-gling
+	  1 (001%): Rituel@fr
+	  1 (001%): Santur
+	  1 (001%): Sanza
+	  1 (001%): Satara
+	  1 (001%): Shuddha Maddalam
+	  1 (001%): Solo instrumental@fr
+	  1 (001%): Soron
+	  1 (001%): THAI
+	  1 (001%): Tabla (daya et baya)
+	  1 (001%): Tambour de bois à fente@fr
+	  1 (001%): Tambour frappé@fr
+	  1 (001%): Tambour sur cadre à 1 membrane@fr
+	  1 (001%): Tambour sur cadre à 2 membranes@fr
+	  1 (001%): Tambour sur caisse en forme de gobelet/calice à 1 membrane@fr
+	  1 (001%): Tambour sur caisse à 1 membrane@fr
+	  1 (001%): Tambour sur caisse à 2 membranes@fr
+	  1 (001%): Tambour à 2 membranes@fr
+	  1 (001%): Tambour à tension variable@fr
+	  1 (001%): Tar
+	  1 (001%): Timbale@fr
+	  1 (001%): Trompe à embouchure latérale@fr
+	  1 (001%): Trompe à embouchure terminale@fr
+	  1 (001%): Tule
+	  1 (001%): Vietnamien
+	  1 (001%): Vièle à 3 cordes@fr
+	  1 (001%): Voix : Duo d'hommes@fr
+	  1 (001%): Voix : Duo de femmes@fr
+	  1 (001%): Voix chantée : choeur d'hommes@fr
+	  1 (001%): Wayapi
+
+<http://www.w3.org/2004/02/skos/core#note>:
+	 11 (009%): http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16066/
+	 11 (009%): http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16089/
+	  8 (007%): http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16084/
+	  7 (006%): http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16059/
+	  6 (005%): http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16058/
+	  6 (005%): http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16061/
+	  6 (005%): http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16067/
+	  5 (004%): http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16054/
+	  5 (004%): http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16056/
+	  5 (004%): http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16060/
+	  5 (004%): http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16065/
+	  5 (004%): http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16073/
+	  5 (004%): http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16079/
+	  5 (004%): http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16080/
+	  5 (004%): http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16083/
+	  4 (003%): http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16057/
+	  4 (003%): http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16062/
+	  4 (003%): http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16064/
+	  4 (003%): http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16068/
+	  4 (003%): http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16070/
+	  4 (003%): http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16071/
+	  4 (003%): http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16074/
+	  4 (003%): http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16075/
+	  4 (003%): http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16077/
+	  4 (003%): http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16082/
+	  4 (003%): http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16085/
+	  3 (003%): http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16053/
+	  3 (003%): http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16055/
+	  3 (003%): http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16069/
+	  3 (003%): http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16072/
+	  3 (003%): http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16076/
+	  3 (003%): http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16078/
+	  3 (003%): http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16081/
+	  3 (003%): http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16086/
+	  2 (002%): http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16063/
+	  2 (002%): http://mint-projects.image.ntua.gr/data/sounds/http://archives.crem-cnrs.fr/archives/items/16087/
+
+
+
+********************************************************************************
+* SAMEAS STATISTICS                                                            *
+********************************************************************************
+* This section shows the dataset distribution of sameAs links                  *
+*                                                                              *
+* Meaning of the columns:                                                      *
+* #1: Number of sameAs properties for this domain                              *
+* #2: Percentage against the total number of resources                         *
+* #3: The URL of the domain                                                    *
+********************************************************************************
+
+

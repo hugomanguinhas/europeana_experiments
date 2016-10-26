@@ -1,0 +1,450 @@
+﻿<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#" > 
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#zangduo">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/6364"/>
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/5639"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#cinemaorgel">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/2266"/>
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/2264"/>
+    <skos:broadMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/2266"/>
+    <skos:broadMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/2264"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#zangtrio">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/6364"/>
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/5639"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#marimba">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3079"/>
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/2937"/>
+    <owl:differentFrom rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3076"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#castagnetten">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/2423"/>
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/2420"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#fluit">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3955"/>
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3883"/>
+    <owl:differentFrom rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3394"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#bj">
+    <owl:differentFrom rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/6294"/>
+    <owl:differentFrom rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3911"/>
+    <owl:differentFrom rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3668"/>
+    <owl:differentFrom rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/2838"/>
+    <owl:differentFrom rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/2611"/>
+    <owl:differentFrom rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/2452"/>
+    <owl:differentFrom rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/2447"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#alt">
+    <owl:differentFrom rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/6308"/>
+    <owl:differentFrom rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3561"/>
+    <owl:differentFrom rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3558"/>
+    <owl:differentFrom rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3555"/>
+    <owl:differentFrom rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/2454"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#Trompet">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/4446"/>
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/4370"/>
+    <owl:differentFrom rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/4280"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#xylofoon">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3099"/>
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3062"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#harmonika">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/4111"/>
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/4110"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#slagwerk">
+    <skos:narrowMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/2370"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#bariton">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/5715"/>
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/4325"/>
+    <skos:closeMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/4325"/>
+    <owl:differentFrom rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3585"/>
+    <owl:differentFrom rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3487"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#wurlitzerorgel">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/2266"/>
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/2264"/>
+    <skos:broadMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/2266"/>
+    <skos:broadMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/2264"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#hobo">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/4232"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#tuba">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/4467"/>
+    <owl:differentFrom rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/4682"/>
+    <owl:differentFrom rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/2783"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#violoncello">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3582"/>
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3575"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#bas">
+    <skos:narrowMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3117"/>
+    <owl:differentFrom rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/4375"/>
+    <owl:differentFrom rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3894"/>
+    <owl:differentFrom rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/2882"/>
+    <owl:differentFrom rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/2498"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#cornet">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3860"/>
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3859"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#dichterzanger">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/6364"/>
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/5639"/>
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3919"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#dichtzang">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/6364"/>
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/5639"/>
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3919"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#carrillon">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/2838"/>
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/2387"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#zanger">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/6364"/>
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/5639"/>
+    <owl:differentFrom rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/6364"/>
+    <owl:differentFrom rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/5640"/>
+    <owl:differentFrom rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/5639"/>
+    <owl:differentFrom rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3100"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#harmonica">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/4111"/>
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/4110"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#banjo">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3226"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#bugel">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3881"/>
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3875"/>
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3818"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#tenorsaxofoon">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/4349"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#Clarinet">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3836"/>
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3827"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#pianoforte">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/2299"/>
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/2273"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#orgel">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/2266"/>
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/2264"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#altblokfluit">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/6625"/>
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/4096"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#zangkoor">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/6364"/>
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/5639"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#bioscooporgel">
+    <skos:narrowMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/2264"/>
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/2266"/>
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/2264"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#saxofoon">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/4346"/>
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/4341"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#komiek">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/6294"/>
+    <owl:differentFrom rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/6665"/>
+    <owl:differentFrom rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3493"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#mondaccordeon">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/6311"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#dirigent">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3919"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#humoristen">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/4947"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#straatzangers">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/6364"/>
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/5639"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#Bariton">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/5715"/>
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/4325"/>
+    <owl:differentFrom rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/4325"/>
+    <owl:differentFrom rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3585"/>
+    <owl:differentFrom rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3487"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#dichter">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3919"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#jodelzang">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/6364"/>
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/5639"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#trombone">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/4369"/>
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/4360"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#komiekzanger">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/6364"/>
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/6294"/>
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/5639"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#carillon">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/2387"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#mondorgel">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/4154"/>
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/4143"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#beiaard">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/2387"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#tenor">
+    <owl:differentFrom rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/4455"/>
+    <owl:differentFrom rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/4285"/>
+    <owl:differentFrom rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3473"/>
+    <owl:differentFrom rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3444"/>
+    <owl:differentFrom rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/2907"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#trompet">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/4446"/>
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/4370"/>
+    <owl:differentFrom rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/4280"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#clarinet">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3836"/>
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3827"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#piano">
+    <skos:narrowMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/2299"/>
+    <skos:narrowMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/2273"/>
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/2299"/>
+    <owl:differentFrom rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3945"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#cither">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3729"/>
+    <skos:closeMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/4785"/>
+    <skos:closeMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3694"/>
+    <skos:closeMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3610"/>
+    <skos:closeMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3106"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#accordeola">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/4118"/>
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/4116"/>
+    <owl:differentFrom rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/4784"/>
+    <owl:differentFrom rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3732"/>
+    <owl:differentFrom rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3731"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#dominee">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/6294"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#voordracht">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3131"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#pianoduo">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/4237"/>
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/2299"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#kunstfluiter">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3998"/>
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3955"/>
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3883"/>
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3394"/>
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3313"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#gitaar">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3237"/>
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3224"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#sopraan">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3668"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#gitarist">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/6759"/>
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3471"/>
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3237"/>
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3224"/>
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/2760"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#dirigen">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3919"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#drum">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/2585"/>
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/2493"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#kinderkoor">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/6807"/>
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/4012"/>
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3684"/>
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3288"/>
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/2408"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#Occarino">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/4020"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#clavecimbel">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/2873"/>
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/2251"/>
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/2239"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#klarinet">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3836"/>
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3827"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#bass">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3117"/>
+    <owl:differentFrom rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3900"/>
+    <owl:differentFrom rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3894"/>
+    <owl:differentFrom rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3117"/>
+    <owl:differentFrom rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/2476"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#mozartpiano">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/4947"/>
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/4237"/>
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/2299"/>
+    <skos:closeMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/2299"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#cello">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3582"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#blaasinstrument">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3730"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#humorist">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/4947"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#cabaretzang">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/6364"/>
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/5639"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#imitator">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/6294"/>
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/2690"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#flagiolet">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3946"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#komiekzang">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/6364"/>
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/6294"/>
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/5639"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#accordeon">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3732"/>
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3731"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#drums">
+    <skos:narrowMatch rdf:resource="http://www.mimo-db.eu/HornbostelAndSachs/121"/>
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/2493"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#mondharmonica">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/4111"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#declamatie">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3919"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#orkestdirigent">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3919"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#kapelmeester">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/2636"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#coloratuurzang">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/6364"/>
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/5639"/>
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/2838"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#refreinzang">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/6364"/>
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/5639"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#viool">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3573"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#harp">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3285"/>
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3265"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#koor">
+    <owl:differentFrom rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/4659"/>
+    <owl:differentFrom rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/4118"/>
+    <owl:differentFrom rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3668"/>
+    <owl:differentFrom rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3260"/>
+    <owl:differentFrom rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3258"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#artiest">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3919"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#zang">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/6364"/>
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/5639"/>
+    <owl:differentFrom rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/6666"/>
+    <owl:differentFrom rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/6364"/>
+    <owl:differentFrom rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/5639"/>
+    <owl:differentFrom rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/5477"/>
+    <owl:differentFrom rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/5327"/>
+    <owl:differentFrom rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/5195"/>
+    <owl:differentFrom rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3100"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#zingt">
+    <owl:differentFrom rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/6364"/>
+    <owl:differentFrom rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/6273"/>
+    <owl:differentFrom rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/5639"/>
+    <owl:differentFrom rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/5477"/>
+    <owl:differentFrom rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/2482"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#soubrette">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3668"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#comedienne">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3919"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#hammondorgel">
+    <skos:closeMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/6621"/>
+    <skos:closeMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/2319"/>
+    <skos:closeMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/2318"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#draaiorgel">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/4485"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#clavioline">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/2211"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#occarino">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/4020"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#Sopraan">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3668"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#fluiter">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3998"/>
+    <owl:differentFrom rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3313"/>
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3955"/>
+    <owl:differentFrom rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3394"/>
+    <owl:differentFrom rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/4101"/>
+    <owl:differentFrom rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3883"/>
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3883"/>
+    <owl:differentFrom rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3998"/>
+    <owl:differentFrom rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3955"/>
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3313"/>
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3394"/>
+    <owl:differentFrom rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3947"/>
+  </rdf:Description>
+</rdf:RDF>

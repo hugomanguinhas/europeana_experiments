@@ -1,0 +1,715 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xml:base="http://www.europeanasounds.eu/data/concepts#">
+  <skos:Concept rdf:ID="oiseau">
+    <skos:inScheme>
+      <skos:ConceptScheme rdf:ID="ConceptScheme">
+        <skos:note>A virtual scheme containing concepts that were extracted from a set of source records in order to be matched against a target vocabulary.</skos:note>
+      </skos:ConceptScheme>
+    </skos:inScheme>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9795"/>
+    <skos:prefLabel>oiseau</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:ID="guitare">
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9799"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9792"/>
+    <skos:prefLabel>guitare</skos:prefLabel>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9800"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9788"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9797"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9767"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9803"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9766"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9801"/>
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9768"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9798"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9802"/>
+  </skos:Concept>
+  <skos:Concept rdf:ID="Bixad">
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9768"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9766"/>
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9767"/>
+    <skos:prefLabel>Bixad</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="#pratique+de+protection">
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9779"/>
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9764"/>
+    <skos:prefLabel>pratique de protection</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="#papier+de+famille">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9779"/>
+    <skos:prefLabel>papier de famille</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="#chanson+des+noces">
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9764"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9766"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9768"/>
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9767"/>
+    <skos:prefLabel>chanson des noces</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="#cadeau+de+noces">
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9764"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9803"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9776"/>
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9784"/>
+    <skos:prefLabel>cadeau de noces</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:ID="parrain">
+    <skos:prefLabel>parrain</skos:prefLabel>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9784"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9764"/>
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9779"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9782"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9801"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9802"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9792"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="#transmission+orale">
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9778"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9777"/>
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9796"/>
+    <skos:prefLabel>transmission orale</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="#demande+en+mariage">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9779"/>
+    <skos:prefLabel>demande en mariage</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="#chant+traditionnel">
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9775"/>
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9765"/>
+    <skos:prefLabel>chant traditionnel</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:ID="dot">
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9764"/>
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9779"/>
+    <skos:prefLabel>dot</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="#musique+traditionnelle">
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9782"/>
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9784"/>
+    <skos:prefLabel>musique traditionnelle</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="#ann%C3%A9es+1970">
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9800"/>
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9801"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9799"/>
+    <skos:prefLabel>années 1970</skos:prefLabel>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9797"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9798"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9802"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9803"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="#f%C3%AAte">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9782"/>
+    <skos:prefLabel>fête</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="#chanson-musique%2Fpaysage+sonore%2Fpo%C3%A9sie">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9784"/>
+    <skos:prefLabel>chanson-musique/paysage sonore/poésie</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="#veill%C3%A9e">
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9769"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9781"/>
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9795"/>
+    <skos:prefLabel>veillée</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="#expression+vocale%2Fexpression+vocale">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9778"/>
+    <skos:prefLabel>expression vocale/expression vocale</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:ID="mariage">
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9796"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9800"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9803"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9768"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9776"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9766"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9778"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9797"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9801"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9764"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9769"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9777"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9779"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9798"/>
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9802"/>
+    <skos:prefLabel>mariage</skos:prefLabel>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9788"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9765"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9767"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9775"/>
+  </skos:Concept>
+  <skos:Concept rdf:ID="dialogue">
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9801"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9802"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9792"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9784"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9788"/>
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9800"/>
+    <skos:prefLabel>dialogue</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="#Roata+fetelor">
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9800"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9788"/>
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9797"/>
+    <skos:prefLabel>Roata fetelor</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="#coiffe+de+mariage">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9764"/>
+    <skos:prefLabel>coiffe de mariage</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="#chanson-musique%2Fpaysage+sonore">
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9788"/>
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9765"/>
+    <skos:prefLabel>chanson-musique/paysage sonore</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:ID="chanson-musique">
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9781"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9795"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9766"/>
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9782"/>
+    <skos:prefLabel>chanson-musique</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="#n%C3%A9gociation">
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9784"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9792"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9777"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9800"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9801"/>
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9802"/>
+    <skos:prefLabel>négociation</skos:prefLabel>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9779"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="#chanson+d%27amour">
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9795"/>
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9778"/>
+    <skos:prefLabel>chanson d'amour</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="#porter+un+toast">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9779"/>
+    <skos:prefLabel>porter un toast</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:ID="fleur">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9799"/>
+    <skos:prefLabel>fleur</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="#danse+des+gimblettes">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9779"/>
+    <skos:prefLabel>danse des gimblettes</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="#bal+de+noces">
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9776"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9778"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9775"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9803"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9784"/>
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9777"/>
+    <skos:prefLabel>bal de noces</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:ID="basilic">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9779"/>
+    <skos:prefLabel>basilic</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="#relation+m%C3%A8re-enfant">
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9775"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9799"/>
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9796"/>
+    <skos:prefLabel>relation mère-enfant</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="#statut+de+la+femme">
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9799"/>
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9796"/>
+    <skos:prefLabel>statut de la femme</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="#po%C3%A9sie%2Fpaysage+sonore">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9799"/>
+    <skos:prefLabel>poésie/paysage sonore</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="#technique+de+coiffure">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9779"/>
+    <skos:prefLabel>technique de coiffure</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="#rite+masculin">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9779"/>
+    <skos:prefLabel>rite masculin</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="#chanson+sur+les+soucis+et+inconv%C3%A9nients+du+mariage">
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9775"/>
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9796"/>
+    <skos:prefLabel>chanson sur les soucis et inconvénients du mariage</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="#chanson+du+mariage">
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9764"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9768"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9765"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9767"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9769"/>
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9766"/>
+    <skos:prefLabel>chanson du mariage</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:ID="cuisinier">
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9802"/>
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9792"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9800"/>
+    <skos:prefLabel>cuisinier</skos:prefLabel>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9764"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9801"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9779"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9777"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="#commensalit%C3%A9">
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9802"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9764"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9792"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9784"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9800"/>
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9801"/>
+    <skos:prefLabel>commensalité</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="#cri+de+joie">
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9767"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9778"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9797"/>
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9768"/>
+    <skos:prefLabel>cri de joie</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="#relation+p%C3%A8re-enfant">
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9796"/>
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9799"/>
+    <skos:prefLabel>relation père-enfant</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:ID="violon">
+    <skos:prefLabel>violon</skos:prefLabel>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9768"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9767"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9803"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9802"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9799"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9792"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9801"/>
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9766"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9798"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9800"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9788"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9797"/>
+  </skos:Concept>
+  <skos:Concept rdf:ID="banquet">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9800"/>
+    <skos:prefLabel>banquet</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:ID="poule">
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9777"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9801"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9784"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9764"/>
+    <skos:prefLabel>poule</skos:prefLabel>
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9800"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9779"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9792"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9802"/>
+  </skos:Concept>
+  <skos:Concept rdf:ID="drapeau">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9801"/>
+    <skos:prefLabel>drapeau</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="#paysage+sonore">
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9803"/>
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9801"/>
+    <skos:prefLabel>paysage sonore</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:ID="ethnomusicologie">
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9792"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9798"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9775"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9800"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9769"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9781"/>
+    <skos:prefLabel>ethnomusicologie</skos:prefLabel>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9795"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9768"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9779"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9777"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9802"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9778"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9776"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9801"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9797"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9782"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9788"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9796"/>
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9767"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9765"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9803"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9799"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9766"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9764"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9784"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="#Chant+de+la+poule">
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9802"/>
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9764"/>
+    <skos:prefLabel>Chant de la poule</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="#mets+de+f%C3%AAte">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9779"/>
+    <skos:prefLabel>mets de fête</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="#jours+de+la+semaine">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9764"/>
+    <skos:prefLabel>jours de la semaine</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="#banni%C3%A8re">
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9766"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9764"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9765"/>
+    <skos:prefLabel>bannière</skos:prefLabel>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9784"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9779"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9767"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9801"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9768"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9788"/>
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="#cort%C3%A8ge+nuptial">
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9766"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9765"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9768"/>
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9767"/>
+    <skos:prefLabel>cortège nuptial</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:ID="Moiseni">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9764"/>
+    <skos:prefLabel>Moiseni</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:ID="humour">
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9792"/>
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9784"/>
+    <skos:prefLabel>humour</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="#parole%2Fpaysage+sonore">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9776"/>
+    <skos:prefLabel>parole/paysage sonore</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="#genre+sexuel">
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9799"/>
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9796"/>
+    <skos:prefLabel>genre sexuel</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:ID="pain">
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9779"/>
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9784"/>
+    <skos:prefLabel>pain</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="#rite+f%C3%A9minin">
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9788"/>
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9797"/>
+    <skos:prefLabel>rite féminin</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="#po%C3%A9sie">
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9796"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9792"/>
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9775"/>
+    <skos:prefLabel>poésie</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="#expression+vocale%2Fchanson-musique">
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9767"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9768"/>
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9798"/>
+    <skos:prefLabel>expression vocale/chanson-musique</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="#sociabilit%C3%A9+villageoise">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9782"/>
+    <skos:prefLabel>sociabilité villageoise</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="#relation+fr%C3%A8re-soeur">
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9799"/>
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9796"/>
+    <skos:prefLabel>relation frère-soeur</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:ID="grelot">
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9800"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9775"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9801"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9768"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9798"/>
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9788"/>
+    <skos:prefLabel>grelot</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="#d%C3%A9part">
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9775"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9796"/>
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9799"/>
+    <skos:prefLabel>départ</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:ID="Roumanie">
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9796"/>
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9765"/>
+    <skos:prefLabel>Roumanie</skos:prefLabel>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9777"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9781"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9784"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9769"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9766"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9775"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9792"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9782"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9776"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9767"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9764"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9779"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9802"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9768"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9799"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9803"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9800"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9797"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9778"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9801"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9788"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9795"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9798"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="#Bulciugul+miresei">
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9765"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9779"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9775"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9799"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9764"/>
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9796"/>
+    <skos:prefLabel>Bulciugul miresei</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:ID="ban">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9779"/>
+    <skos:prefLabel>ban</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="#flûte">
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9781"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9795"/>
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9782"/>
+    <skos:prefLabel>flûte</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:ID="parole">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9777"/>
+    <skos:prefLabel>parole</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="#chanson+pour+faire+boire+ou+couplet+%C3%A0+boire">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9803"/>
+    <skos:prefLabel>chanson pour faire boire ou couplet à boire</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="#fian%C3%A7ailles">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9779"/>
+    <skos:prefLabel>fiançailles</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="#c%C3%A9r%C3%A9monie+religieuse">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9779"/>
+    <skos:prefLabel>cérémonie religieuse</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:ID="chant">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9769"/>
+    <skos:prefLabel>chant</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:ID="pleurs">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9796"/>
+    <skos:prefLabel>pleurs</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="#repas+de+noces">
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9803"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9777"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9802"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9764"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9779"/>
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9801"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9792"/>
+    <skos:prefLabel>repas de noces</skos:prefLabel>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9800"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9784"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="#parent%C3%A9+et+vie+familiale">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9776"/>
+    <skos:prefLabel>parenté et vie familiale</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:ID="jardin">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9799"/>
+    <skos:prefLabel>jardin</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:ID="porte-bonheur">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9764"/>
+    <skos:prefLabel>porte-bonheur</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="#chanson+d%27aventures+de+mariage">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9795"/>
+    <skos:prefLabel>chanson d'aventures de mariage</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="#expression+vocale%2Fmorceau+instrumental">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9797"/>
+    <skos:prefLabel>expression vocale/morceau instrumental</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="#field+recording">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9767"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9781"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9764"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9766"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9799"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9788"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9798"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9797"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9796"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9803"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9802"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9795"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9784"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9801"/>
+    <skos:prefLabel>field recording</skos:prefLabel>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9800"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9777"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9769"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9782"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9779"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9776"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9768"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9765"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9778"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9775"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9792"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="#t%C3%A9moignage+th%C3%A9matique">
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9764"/>
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9779"/>
+    <skos:prefLabel>témoignage thématique</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="#d%C3%A9roulement+de+la+f%C3%AAte">
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9792"/>
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9779"/>
+    <skos:prefLabel>déroulement de la fête</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="#paysage+sonore%2Fchant%2Fparole">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9802"/>
+    <skos:prefLabel>paysage sonore/chant/parole</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="#relation+adulte-enfant">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9782"/>
+    <skos:prefLabel>relation adulte-enfant</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="#paysage+sonore%2Fchanson-musique%2Fparole">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9800"/>
+    <skos:prefLabel>paysage sonore/chanson-musique/parole</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="#paysage+sonore%2Fchanson-musique">
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9792"/>
+    <skos:prefLabel>paysage sonore/chanson-musique</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="#rite+de+passage">
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9803"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9800"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9792"/>
+    <skos:prefLabel>rite de passage</skos:prefLabel>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9802"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9797"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9801"/>
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9796"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9784"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9799"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="#oraison+liturgique">
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9775"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9799"/>
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9796"/>
+    <skos:prefLabel>oraison liturgique</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="#vente+aux+ench%C3%A8res">
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9802"/>
+    <skos:inScheme rdf:resource="#ConceptScheme"/>
+    <skos:note rdf:resource="http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&amp;aloId=9792"/>
+    <skos:prefLabel>vente aux enchères</skos:prefLabel>
+  </skos:Concept>
+</rdf:RDF>

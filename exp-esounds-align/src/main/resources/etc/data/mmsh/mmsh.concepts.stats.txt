@@ -1,0 +1,198 @@
+
+********************************************************************************
+* RESOURCES                                                                    *
+********************************************************************************
+
+Total n. of resources: 91
+
+
+********************************************************************************
+* PROPERTIES                                                                   *
+********************************************************************************
+* This section lists the properties found for the selected resources.          *
+*                                                                              *
+* Meaning of the columns:                                                      *
+* #1: Number of resources that have at least one instance of this property     *
+* #2: Percentage against the total number of resources                         *
+* #3: The URI of the property                                                  *
+********************************************************************************
+
+Total n. of properties: 4
+
+91 (100%): http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+91 (100%): http://www.w3.org/2004/02/skos/core#inScheme
+91 (100%): http://www.w3.org/2004/02/skos/core#note
+91 (100%): http://www.w3.org/2004/02/skos/core#prefLabel
+
+http://www.w3.org/2004/02/skos/core#inScheme91 (100%,1<#<1)
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type91 (100%,1<#<1)
+http://www.w3.org/2004/02/skos/core#note342 (376%,1<#<25)
+http://www.w3.org/2004/02/skos/core#prefLabel91 (100%,1<#<1)
+
+********************************************************************************
+* LANGUAGE DISTRIBUTION                                                        *
+********************************************************************************
+* This section lists the languages found for the selected resources.           *
+*                                                                              *
+* Meaning of the columns:                                                      *
+* #1: Code of the Language (i.e. found on literal ranges)                      *
+* #2: Number of resources that have at least one literal range of this lang    *
+* #3: Percentage against the total number of resources                         *
+********************************************************************************
+
+Total n. of languages: 1
+
+	91 (100%): ? 
+
+
+********************************************************************************
+* PROPERTY VALUES STATISTICS                                                   *
+********************************************************************************
+* This section lists the values found for a specific property.                 *
+*                                                                              *
+* Meaning of the columns:                                                      *
+* #1: Number of properties with this literal                                   *
+* #2: Percentage against the total number of resources                         *
+* #3: The literal value and language if defined (see @)                        *
+********************************************************************************
+
+<http://www.w3.org/2004/02/skos/core#inScheme>:
+	91 (100%): http://www.europeanasounds.eu/data/concepts#ConceptScheme
+
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:
+	91 (100%): http://www.w3.org/2004/02/skos/core#Concept
+
+<http://www.w3.org/2004/02/skos/core#prefLabel>:
+	 1 (001%): Bixad
+	 1 (001%): Bulciugul miresei
+	 1 (001%): Chant de la poule
+	 1 (001%): Moiseni
+	 1 (001%): Roata fetelor
+	 1 (001%): Roumanie
+	 1 (001%): années 1970
+	 1 (001%): bal de noces
+	 1 (001%): ban
+	 1 (001%): bannière
+	 1 (001%): banquet
+	 1 (001%): basilic
+	 1 (001%): cadeau de noces
+	 1 (001%): chanson d'amour
+	 1 (001%): chanson d'aventures de mariage
+	 1 (001%): chanson des noces
+	 1 (001%): chanson du mariage
+	 1 (001%): chanson pour faire boire ou couplet à boire
+	 1 (001%): chanson sur les soucis et inconvénients du mariage
+	 1 (001%): chanson-musique
+	 1 (001%): chanson-musique/paysage sonore
+	 1 (001%): chanson-musique/paysage sonore/poésie
+	 1 (001%): chant
+	 1 (001%): chant traditionnel
+	 1 (001%): coiffe de mariage
+	 1 (001%): commensalité
+	 1 (001%): cortège nuptial
+	 1 (001%): cri de joie
+	 1 (001%): cuisinier
+	 1 (001%): cérémonie religieuse
+	 1 (001%): danse des gimblettes
+	 1 (001%): demande en mariage
+	 1 (001%): dialogue
+	 1 (001%): dot
+	 1 (001%): drapeau
+	 1 (001%): départ
+	 1 (001%): déroulement de la fête
+	 1 (001%): ethnomusicologie
+	 1 (001%): expression vocale/chanson-musique
+	 1 (001%): expression vocale/expression vocale
+	 1 (001%): expression vocale/morceau instrumental
+	 1 (001%): fiançailles
+	 1 (001%): field recording
+	 1 (001%): fleur
+	 1 (001%): flûte
+	 1 (001%): fête
+	 1 (001%): genre sexuel
+	 1 (001%): grelot
+	 1 (001%): guitare
+	 1 (001%): humour
+	 1 (001%): jardin
+	 1 (001%): jours de la semaine
+	 1 (001%): mariage
+	 1 (001%): mets de fête
+	 1 (001%): musique traditionnelle
+	 1 (001%): négociation
+	 1 (001%): oiseau
+	 1 (001%): oraison liturgique
+	 1 (001%): pain
+	 1 (001%): papier de famille
+	 1 (001%): parenté et vie familiale
+	 1 (001%): parole
+	 1 (001%): parole/paysage sonore
+	 1 (001%): parrain
+	 1 (001%): paysage sonore
+	 1 (001%): paysage sonore/chanson-musique
+	 1 (001%): paysage sonore/chanson-musique/parole
+	 1 (001%): paysage sonore/chant/parole
+	 1 (001%): pleurs
+	 1 (001%): porte-bonheur
+	 1 (001%): porter un toast
+	 1 (001%): poule
+	 1 (001%): poésie
+	 1 (001%): poésie/paysage sonore
+	 1 (001%): pratique de protection
+	 1 (001%): relation adulte-enfant
+	 1 (001%): relation frère-soeur
+	 1 (001%): relation mère-enfant
+	 1 (001%): relation père-enfant
+	 1 (001%): repas de noces
+	 1 (001%): rite de passage
+	 1 (001%): rite féminin
+	 1 (001%): rite masculin
+	 1 (001%): sociabilité villageoise
+	 1 (001%): statut de la femme
+	 1 (001%): technique de coiffure
+	 1 (001%): transmission orale
+	 1 (001%): témoignage thématique
+	 1 (001%): veillée
+	 1 (001%): vente aux enchères
+	 1 (001%): violon
+
+<http://www.w3.org/2004/02/skos/core#note>:
+	27 (030%): http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&aloId=9779
+	22 (024%): http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&aloId=9764
+	19 (021%): http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&aloId=9801
+	18 (020%): http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&aloId=9792
+	18 (020%): http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&aloId=9799
+	18 (020%): http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&aloId=9800
+	18 (020%): http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&aloId=9802
+	17 (019%): http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&aloId=9784
+	17 (019%): http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&aloId=9796
+	14 (015%): http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&aloId=9768
+	13 (014%): http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&aloId=9767
+	13 (014%): http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&aloId=9775
+	13 (014%): http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&aloId=9803
+	12 (013%): http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&aloId=9766
+	12 (013%): http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&aloId=9788
+	12 (013%): http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&aloId=9797
+	11 (012%): http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&aloId=9777
+	10 (011%): http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&aloId=9765
+	10 (011%): http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&aloId=9782
+	 9 (010%): http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&aloId=9778
+	 9 (010%): http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&aloId=9795
+	 9 (010%): http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&aloId=9798
+	 8 (009%): http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&aloId=9776
+	 7 (008%): http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&aloId=9769
+	 6 (007%): http://mint-projects.image.ntua.gr/data/sounds/http://phonotheque.mmsh.huma-num.fr/dyn/portal/index.seam?page=alo&aloId=9781
+
+
+
+********************************************************************************
+* SAMEAS STATISTICS                                                            *
+********************************************************************************
+* This section shows the dataset distribution of sameAs links                  *
+*                                                                              *
+* Meaning of the columns:                                                      *
+* #1: Number of sameAs properties for this domain                              *
+* #2: Percentage against the total number of resources                         *
+* #3: The URL of the domain                                                    *
+********************************************************************************
+
+

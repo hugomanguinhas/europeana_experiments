@@ -1,0 +1,17 @@
+British Library
+Received three collections: “Tim Cook”, “Keith Summers”, “Asian Instruments”;
+Some issues were found in the data within dc:subject fields:
+The original shelfmarks were being placed within dc:subject fields: e.g. "1CDR0010645 (copy of C1002/78)"
+Compound subjects separated typically with comma or slash: “accordion, singer, male”, “concetina, singer, male”, “melodeon / stepdancing”
+Some dangling characters were found: e.g. "violin)", "mandolin)", "accordion [?]"
+For the asian instruments collection, found some strange characters in subjects like “ba~sri" and "ba~suri” that look related to encoding, and found " and" in the subject field of two records which looks coming from some splitting logic or just typo.
+
+NISV
+- Received one collection
+- Some issues were found in the mapping
+  - Subjects found within dc:contributor fields which can contain either actor roles (e.g. “gitarist”) or the instrument (e.g. “gitaar”).
+  - Language was missing.
+
+CNRS-CREM and CNRS-MMSH
+- Received one collection
+- No issues were found to this moment

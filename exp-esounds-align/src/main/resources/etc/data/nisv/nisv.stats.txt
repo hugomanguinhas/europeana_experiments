@@ -1,0 +1,88 @@
+
+********************************************************************************
+* RESOURCES                                                                    *
+********************************************************************************
+
+Total n. of resources: 6608
+
+
+********************************************************************************
+* PROPERTIES                                                                   *
+********************************************************************************
+* This section lists the properties found for the selected resources.          *
+*                                                                              *
+* Meaning of the columns:                                                      *
+* #1: Number of resources that have at least one instance of this property     *
+* #2: Percentage against the total number of resources                         *
+* #3: The URI of the property                                                  *
+********************************************************************************
+
+Total n. of properties: 14
+
+6608 (100%): http://purl.org/dc/elements/1.1/contributor
+6608 (100%): http://purl.org/dc/elements/1.1/description
+6608 (100%): http://purl.org/dc/elements/1.1/identifier
+6608 (100%): http://purl.org/dc/elements/1.1/publisher
+6608 (100%): http://purl.org/dc/elements/1.1/relation
+6608 (100%): http://purl.org/dc/elements/1.1/title
+6608 (100%): http://purl.org/dc/elements/1.1/type
+6608 (100%): http://purl.org/dc/terms/alternative
+6608 (100%): http://purl.org/dc/terms/isPartOf
+6608 (100%): http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#hasGenre
+6608 (100%): http://www.europeana.eu/schemas/edm/type
+6608 (100%): http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+4548 (069%): http://purl.org/dc/elements/1.1/subject
+3921 (059%): http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#duration
+
+http://purl.org/dc/elements/1.1/relation6608 (100%,1<#<1)
+http://purl.org/dc/elements/1.1/description13216 (200%,2<#<2)
+http://purl.org/dc/elements/1.1/identifier6608 (100%,1<#<1)
+http://purl.org/dc/elements/1.1/subject4548 (069%,0<#<1)
+http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#hasGenre13216 (200%,2<#<2)
+http://purl.org/dc/elements/1.1/contributor6608 (100%,1<#<1)
+http://purl.org/dc/elements/1.1/type6608 (100%,1<#<1)
+http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#duration3921 (059%,0<#<1)
+http://www.europeana.eu/schemas/edm/type6608 (100%,1<#<1)
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type6608 (100%,1<#<1)
+http://purl.org/dc/elements/1.1/publisher6608 (100%,1<#<1)
+http://purl.org/dc/terms/alternative6608 (100%,1<#<1)
+http://purl.org/dc/terms/isPartOf6608 (100%,1<#<1)
+http://purl.org/dc/elements/1.1/title6608 (100%,1<#<1)
+
+********************************************************************************
+* LANGUAGE DISTRIBUTION                                                        *
+********************************************************************************
+* This section lists the languages found for the selected resources.           *
+*                                                                              *
+* Meaning of the columns:                                                      *
+* #1: Code of the Language (i.e. found on literal ranges)                      *
+* #2: Number of resources that have at least one literal range of this lang    *
+* #3: Percentage against the total number of resources                         *
+********************************************************************************
+
+Total n. of languages: 2
+
+	6608 (100%): ? 
+	6608 (100%): nl
+
+<http://purl.org/dc/elements/1.1/relation>:
+	6608 (100%): nl
+
+<http://purl.org/dc/elements/1.1/description>:
+	13216 (100%): nl
+
+<http://purl.org/dc/elements/1.1/subject>:
+	4548 (100%): nl
+
+<http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#hasGenre>:
+	6608 (100%): nl
+
+<http://purl.org/dc/elements/1.1/contributor>:
+	6608 (100%): nl
+
+<http://purl.org/dc/elements/1.1/type>:
+	6608 (100%): nl
+
+<http://purl.org/dc/terms/isPartOf>:
+	6608 (100%): nl
+

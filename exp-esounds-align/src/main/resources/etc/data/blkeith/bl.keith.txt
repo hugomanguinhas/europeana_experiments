@@ -1,0 +1,64 @@
+
+********************************************************************************
+* RESOURCES                                                                    *
+********************************************************************************
+
+Total n. of resources: 1326
+
+
+********************************************************************************
+* PROPERTIES                                                                   *
+********************************************************************************
+* This section lists the properties found for the selected resources.          *
+*                                                                              *
+* Meaning of the columns:                                                      *
+* #1: Number of resources that have at least one instance of this property     *
+* #2: Percentage against the total number of resources                         *
+* #3: The URI of the property                                                  *
+********************************************************************************
+
+Total n. of properties: 13
+
+1326 (100%): http://purl.org/dc/elements/1.1/contributor
+1326 (100%): http://purl.org/dc/elements/1.1/date
+1326 (100%): http://purl.org/dc/elements/1.1/format
+1326 (100%): http://purl.org/dc/elements/1.1/identifier
+1326 (100%): http://purl.org/dc/elements/1.1/language
+1326 (100%): http://purl.org/dc/elements/1.1/subject
+1326 (100%): http://purl.org/dc/elements/1.1/title
+1326 (100%): http://purl.org/dc/terms/extent
+1326 (100%): http://www.europeana.eu/schemas/edm/type
+1326 (100%): http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+1325 (100%): http://purl.org/dc/elements/1.1/relation
+1325 (100%): http://purl.org/dc/terms/spatial
+1112 (084%): http://purl.org/dc/elements/1.1/description
+
+http://purl.org/dc/elements/1.1/relation1325 (100%,0<#<1)
+http://purl.org/dc/elements/1.1/description1112 (084%,0<#<1)
+http://purl.org/dc/elements/1.1/language1326 (100%,1<#<1)
+http://purl.org/dc/elements/1.1/identifier1326 (100%,1<#<1)
+http://purl.org/dc/elements/1.1/date1326 (100%,1<#<1)
+http://purl.org/dc/elements/1.1/subject2002 (151%,1<#<4)
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type1326 (100%,1<#<1)
+http://purl.org/dc/terms/extent1326 (100%,1<#<1)
+http://purl.org/dc/elements/1.1/format1326 (100%,1<#<1)
+http://purl.org/dc/elements/1.1/contributor2759 (208%,1<#<6)
+http://purl.org/dc/elements/1.1/title1326 (100%,1<#<1)
+http://www.europeana.eu/schemas/edm/type1326 (100%,1<#<1)
+http://purl.org/dc/terms/spatial1325 (100%,0<#<1)
+
+********************************************************************************
+* LANGUAGE DISTRIBUTION                                                        *
+********************************************************************************
+* This section lists the languages found for the selected resources.           *
+*                                                                              *
+* Meaning of the columns:                                                      *
+* #1: Code of the Language (i.e. found on literal ranges)                      *
+* #2: Number of resources that have at least one literal range of this lang    *
+* #3: Percentage against the total number of resources                         *
+********************************************************************************
+
+Total n. of languages: 1
+
+	1326 (100%): ? 
+

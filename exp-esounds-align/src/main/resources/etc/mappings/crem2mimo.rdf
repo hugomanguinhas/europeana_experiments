@@ -1,0 +1,84 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#" > 
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#CHENDA">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/2521"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#Guimbarde">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/2864"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#Cloche+double">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/5498"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#Cithare+sur+caisse">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/5531"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#Flûte+de+Pan">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/4024"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#Flûte+à+embouchure+terminale+à+bloc+ou+à+bec">
+    <skos:broadMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3940"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#Clarinette+double">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3838"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#Arc+musical">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3538"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#Trompe+à+embouchure+latérale">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/6557"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#Timbale">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/2887"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#Claquettes">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/2424"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#Cloche">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/2381"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#Clarinette+triple">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3853"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#Flûte+double">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3930"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#Tambour+à+tension+variable">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/5720"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#Hochet">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3036"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#Hautbois">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/4232"/>
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/4164"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#Cithare+sur+table">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3628"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#Cymbales">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/2471"/>
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/2451"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#Clarinette">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3836"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#Harpe+arquée">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3266"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#Trompe+à+embouchure+terminale">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/6556"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#Orgue+à+bouche">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/4154"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#Flûte+à+embouchure+terminale">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3940"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#Accordéon">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/3732"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.europeanasounds.eu/data/concepts#Gong">
+    <skos:exactMatch rdf:resource="http://www.mimo-db.eu/InstrumentsKeywords/2820"/>
+  </rdf:Description>
+</rdf:RDF>

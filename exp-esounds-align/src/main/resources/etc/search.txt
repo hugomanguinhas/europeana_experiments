@@ -1,0 +1,15 @@
+
+http://www.europeana.eu/api/v2/search.json?wskey=api2demo&query=europeana_id:*2059208*&facet=europeana_id&profile=facets
+
+http://www.europeana.eu/api/v2/search.json?wskey=api2demo&query=europeana_id:*2059208*
+
+http://www.europeana.eu/api/v2/search.json?wskey=api2demo&query=europeana_id:*2059208*&facet=europeana_id&profile=facets&rows=0
+
+http://www.europeana.eu/api/v2/search.json?wskey=api2demo&query=europeana_id:*2059208*&facet=europeana_id&profile=facets&rows=0&f.europeana_id.limit=100000
+
+Getting data:
+http://www.europeana.eu/api/v2/search.json?wskey=api2demo&query=europeana_id:*%2F2059208%2F*&facet=europeana_id&profile=facets&rows=0&f.europeana_id.facet.limit=10000
+http://www.europeana.eu/api/v2/search.json?wskey=api2demo&query=europeana_id:*%2F2059211%2F*&facet=europeana_id&profile=facets&rows=0&f.europeana_id.facet.limit=10000
+http://www.europeana.eu/api/v2/search.json?wskey=api2demo&query=europeana_id:*%2F2059210%2F*&facet=europeana_id&profile=facets&rows=0&f.europeana_id.facet.limit=10000
+http://www.europeana.eu/api/v2/search.json?wskey=api2demo&query=europeana_id:*%2F2059209%2F*&facet=europeana_id&profile=facets&rows=0&f.europeana_id.facet.limit=50000
+
