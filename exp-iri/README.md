@@ -80,9 +80,9 @@ The table below makes a comparison between the results of using Java URI and IRI
 | NOT_XML_SCHEMA_WHITESPACE | Flagged when IRIs contain whitespace characters that are not permitted within XML Schema anyURIs, such as tab and new line characters, and consecutive space characters. | URI | no | no | 
 | PERCENT_ENCODING_SHOULD_BE_UPPERCASE | Flagged when character escapes are represented in lowercase as opposed to upper case as defined in the URI spec | URI | yes | no | 
 | PORT_SHOULD_NOT_BE_EMPTY | Flagged when the colon introducing a port component is empty | URI | yes | no |
-| PORT_SHOULD_NOT_BE_WELL_KNOWN | Flagged when a well known port component (ie. 0-1023) is advertised as part of the URL | URI | yes | no |
+| PORT_SHOULD_NOT_BE_WELL_KNOWN | Flagged when a [well known port](https://tools.ietf.org/html/rfc6335) component (ie. 0-1023) is advertised as part of the URL | URI | yes | no |
 | PORT_SHOULD_NOT_START_IN_ZERO | Flagged when the port number contains leading zeros | none | yes | no | 
-| PRIVATE_USE_CHARACTER | Flagged when characters from the private area of Unicode are used. See https://en.wikipedia.org/wiki/Private_Use_Areas. | Unicode, IRI | yes | no | 
+| PRIVATE_USE_CHARACTER | Flagged when characters from the [private area of Unicode](https://en.wikipedia.org/wiki/Private_Use_Areas) are used. | Unicode, IRI | yes | no | 
 | REQUIRED_COMPONENT_MISSING | Flagged when some component of the URL syntax is missing, e.g. host, protocol | URI | yes / no (depends on the component) | no |
 | SCHEME_PATTERN_MATCH_FAILED | Flagged when the pattern of the IRI does not match the one specified by the scheme | URI + IANA | yes | no | 
 | UNREGISTERED_IANA_SCHEME | Flagged when the protocol scheme is not recognized by IANA (see http://www.iana.org/assignments/uri-schemes/uri-schemes.xhtml) | URI + IANA | yes | no |
