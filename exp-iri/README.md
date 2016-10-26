@@ -47,13 +47,13 @@ Early in this investigation, it was also recognized that the reasons and ways to
 
 To analyse in detail the different types of IRI issues, Jena IRIFactory implementation (org.apache.jena.iri.IRIFactory) was chosen as it is currently the most complete (supports the validation against different specifications) and detailed IRI validator for Java. The default IRI validation was chose for this assessment using the weakest validation level (ignoring warnings), which validates against the following standard specifications:
 
-* [Unicode]()
-* [RFC 3986: Uniform Resource Identifier (URI): Generic Syntax]
-* [RFC 3987: Internationalized Resource Identifiers (IRIs)]()
-* [Extensible Markup Language (XML) 1.0 (Third Edition) (section system identifier)]()
-* [Resource Description Framework (RDF): Concepts and Abstract Syntax (section RDF URI References)]()
-* [XML Linking Language (XLink) Version 1.0 (section Locator Attribute (href))]()
-* [XML Schema Part 2: Datatypes Second Edition (section anyURI)]()
+* [Unicode](http://www.unicode.org/)
+* [RFC 3986: Uniform Resource Identifier (URI): Generic Syntax](http://www.apps.ietf.org/rfc/rfc3986.html)
+* [RFC 3987: Internationalized Resource Identifiers (IRIs)](http://www.apps.ietf.org/rfc/rfc3987.html)
+* [Extensible Markup Language (XML) 1.0 (Third Edition) (section system identifier)](http://www.w3.org/TR/2004/REC-xml-20040204/#dt-sysid)
+* [Resource Description Framework (RDF): Concepts and Abstract Syntax (section RDF URI References)](http://www.w3.org/TR/2004/REC-rdf-concepts-20040210/#section-Graph-URIref)
+* [XML Linking Language (XLink) Version 1.0 (section Locator Attribute (href))](http://www.w3.org/TR/2001/REC-xlink-20010627/#link-locators)
+* [XML Schema Part 2: Datatypes Second Edition (section anyURI)](http://www.w3.org/TR/2004/REC-xmlschema-2-20041028/#anyURI)
 
 Besides the IRIFactory, also the Java URI (java.net.URI) built-in validation was used to compare the two implementations (see Section 3.1) and also determine the situations where a IRI would be exposed or not as a resource reference in the Europeana API.
 
@@ -105,7 +105,7 @@ The table below shows the results and analysis for references to media resources
 | [NOT_DNS_NAME](src/test/resources/etc/data/wr/iris_wr_report.NOT_DNS_NAME.csv) | 2 | Both cases reflect a typo (extra whitespace as part of the DNS). In such cases, removing the character is sufficient to make it resolvable. | flag as error | Remove extra whitespaces in the component |
 | [NOT_NFKC](src/test/resources/etc/data/wr/iris_wr_report.NOT_NFKC.csv) | 3117 | All IRIs are resolvable, however the | flag as warning | Do nothing (decomposition will likely make the IRI not resolvable) |
 | [NOT_XML_SCHEMA_WHITESPACE](src/test/resources/etc/data/wr/iris_wr_report.NOT_XML_SCHEMA_WHITESPACE.csv) | 3 | If escaped, the IRIs can potentially be resolved. However this did not happen for the cases that were detected. | flag as error | Escape characters |
-| [PERCENT_ENCODING_SHOULD_BE_UPPERCASE](src/test/resources/etc/data/wr/iris_wr_report.PERCENT_ENCODING_SHOULD_BE_UPPERCASE.csv) | 62274 | flag as warning | Convert all character escapes to upper case. |
+| [PERCENT_ENCODING_SHOULD_BE_UPPERCASE](src/test/resources/etc/data/wr/iris_wr_report.PERCENT_ENCODING_SHOULD_BE_UPPERCASE.csv) | 62274 | | flag as warning | Convert all character escapes to upper case. |
 | [PORT_SHOULD_NOT_BE_EMPTY](src/test/resources/etc/data/wr/iris_wr_report.PORT_SHOULD_NOT_BE_EMPTY.csv) | 9 | The cases found are typically the result of a wrong mapping and are only found in the same dataset, and obviously, for such cases the IRIs are not resolvable. However, there could be situations where removing a possible dangling colon may be sufficient. | flag as a warning (but tempted to flag as error due to the high probably of being an actual error) | Remove port component |
 | [PORT_SHOULD_NOT_BE_WELL_KNOWN](src/test/resources/etc/data/wr/iris_wr_report.PORT_SHOULD_NOT_BE_WELL_KNOWN.csv) | 42075 | flag as warning | Do nothing |
 | [PORT_SHOULD_NOT_START_IN_ZERO](src/test/resources/etc/data/wr/iris_wr_report.PORT_SHOULD_NOT_START_IN_ZERO.csv) | 1 | e.g. 0080 | Do not flag | Remove leading zeros |
@@ -131,19 +131,4 @@ The table below shows the results and analysis for references to contextual enti
 
 ## 4. Usage
 
-To run the software using as source files the ones on the maven test directory 
-and using the predefined patterns in the XSLTs, just execute the java class 
-[RunBlackHoleExperiment.java]
-(../src/test/java/eu/europeana/rd/exp/blackhole/RunBlackHoleExperiment.java), 
-like so:
-```
-java eu.europeana.rd.exp.blackhole.RunBlackHoleExperiment
-```
-
-* If you wish to run the experiment over different source data, you can either 
-change the java file directly or use class [BlackHoleDateAnalyser.java]
-(../src/main/java/eu/europeana/rd/exp/blackhole/BlackHoleDateAnalyser.java) 
-in your code.
-
-* If you wish to try different date patterns, you can either add them directly 
-to the XSLT files or use the "patterns" parameter on both XSLTs.
+TODO
